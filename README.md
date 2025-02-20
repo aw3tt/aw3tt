@@ -25,7 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-📊 Live Stats
+## 📊 Live Stats
 
 <!-- Анимированные графики с обновлением в реальном времени -->
 
@@ -37,7 +37,7 @@
 
 <div/>
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://t.me/yournick">
