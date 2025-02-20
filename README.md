@@ -28,14 +28,21 @@
 📊 Live Stats
 
 <!-- Анимированные графики с обновлением в реальном времени -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aw3tt&theme=aura&border_radius=10)](https://git.io/streak-stats)
+
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=aw3tt&theme=aura&border_radius=10)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aw3tt&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <div/>
 
-🌐 Социальные сети
+🌐 Connect With Me
 
-<!-- Анимированные кнопки -->
-<p align="center"> <a href="https://t.me/@aw3tt"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4&labelColor=1f1f1f"/> </a> <a href="sir.sibiliv@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&labelColor=000"/> </a> <a href="https://leetcode.com/yourprofile/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> </p>
+<p align="center">
+  <a href="https://t.me/yournick">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=26A5E4"/>
+  </a> <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/>
+  </a>
+</p>
