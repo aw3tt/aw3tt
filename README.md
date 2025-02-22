@@ -29,7 +29,11 @@
 
 <!-- Анимированные графики с обновлением в реальном времени -->
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=aw3tt&theme=aura&border_radius=10)](https://git.io/streak-stats)
+
+<div/>
 
 <div align="center">
 
