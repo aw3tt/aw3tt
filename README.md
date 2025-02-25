@@ -44,9 +44,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/yournick">
+  <a href="https://t.me/aw3tt">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&color=26A5E4"/>
-  </a> <a href="mailto:youremail@gmail.com">
+  </a> <a href="sir.sibiliv@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&color=EA4335"/>
   </a>
 </p>
